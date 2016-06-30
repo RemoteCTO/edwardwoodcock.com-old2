@@ -4,12 +4,10 @@
 # Site settings
 title: Edward Woodcock
 description: |
-  Another fine responsive
-  site template freebie
-  crafted by [HTML5 UP](http://html5up.net)
+  Ruby on Rails | NodeJS | AWS | Full-stack
 owner: Edward Woodcock # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: ed@edwardwoodcock.com
 baseurl: "/edwardwoodcock.com" # the subpath of your site, e.g. /blog
 url: "http://www.edwardwoodcock.com" # the base hostname & protocol for your site
 social:
